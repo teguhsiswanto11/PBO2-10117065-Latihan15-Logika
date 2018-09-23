@@ -15,7 +15,7 @@ public class PBO210117065Latihan15Logika {
         boolean a = true;
         boolean b = false;
         
-        //keluaran
+        // keluaran
         System.out.println("a && b = " + (a && b));
         System.out.println("a || b = " + (a || b));
         System.out.println("!a = " + !a);
